@@ -18,8 +18,10 @@
 }
 
 .row2 {
-  width: 1000px;
-  height: 40px;
+  /* /* width: 1000px;  first */
+  width: 998px;
+  /* height: 40px; firt */
+  height: 38px;
   border: 1px solid black;
 }
 
@@ -39,8 +41,8 @@
 }
 
 .left {
-  width: 250px;
-  height: 350px;
+  width: 248px;
+  height: 348px;
   border: 1px solid black;
   float: left;
 }
